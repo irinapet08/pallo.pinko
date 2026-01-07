@@ -1,0 +1,6 @@
+#include <studio.h>
+int mail()
+{ 
+printf("hello world");
+return 0;
+}
